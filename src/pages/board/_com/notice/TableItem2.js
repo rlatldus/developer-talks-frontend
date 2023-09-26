@@ -1,4 +1,4 @@
-import "../../main/main.scss";
+import "../../../main/main.scss";
 
 const TableItem2 = ({ data }) => {
 

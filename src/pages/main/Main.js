@@ -1,7 +1,7 @@
 import Best from "pages/_com/best/Best";
 import News from "pages/_com/news/News";
 import "./main.scss";
-import Notice from "pages/_com/notice/Notice";
+import Notice from "pages/board/_com/notice/Notice";
 
 const Main = () => {
   return (
