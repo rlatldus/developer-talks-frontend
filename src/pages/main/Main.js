@@ -11,7 +11,7 @@ const Main = () => {
         <News />
       </article>
       <article>
-        <div></div>
+        <News />
         <Notice />
       </article>
     </div>
